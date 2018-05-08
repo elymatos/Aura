@@ -1,0 +1,7 @@
+__pycache__
+venv
+win-venv
+.idea
+.pytest_cache
+instace
+.vscode

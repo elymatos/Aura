@@ -1,0 +1,9 @@
+sqlalchemy
+flask
+flask-migrate
+flask-sqlalchemy
+flask-jwt-extended
+bcrypt
+psycopg2
+pytest
+schema
